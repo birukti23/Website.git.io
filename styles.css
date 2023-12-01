@@ -1,0 +1,23 @@
+.centered-heading {
+    text-align: center;
+  }
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  a:hover {
+    background-color: #c88181;
+  }
+  h1 {
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #714e4e;
+  }
+  footer {
+    background-color: #714e4e;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
